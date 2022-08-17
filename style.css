@@ -65,6 +65,7 @@ li {
 	width: 100%;
 	height: 100%;
 	mix-blend-mode: multiply;
+	object-fit: cover;
 }
 
 .image-container img:nth-of-type(2) {
